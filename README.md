@@ -34,5 +34,5 @@ A modern, responsive e-commerce style website for showcasing the Rhyno EV brand 
 │ └── script.js
 └── /images
 └── (bike photos + brand imagery)
-## 📁 Folder Structure
+
 
