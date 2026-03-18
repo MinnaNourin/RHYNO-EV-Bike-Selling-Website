@@ -14,12 +14,12 @@ To design and develop a modern product showcase platform that simulates an onlin
 
 ## ✨ Key Features
 
-- 📱 Fully responsive design optimized for mobile, tablet, and desktop  
-- 🛒 Product catalogue with dedicated pages for each bike model  
-- 🖼️ Image galleries and structured product specifications  
-- ⚡ Interactive UI elements (hover effects, navigation, call-to-action buttons)  
-- 🧭 Smooth navigation and user-friendly layout  
-- 📬 Contact/Enquiry form (frontend implementation)  
+- Fully responsive design optimized for mobile, tablet, and desktop  
+- Product catalogue with dedicated pages for each bike model  
+- Image galleries and structured product specifications  
+- Interactive UI elements (hover effects, navigation, call-to-action buttons)  
+- Smooth navigation and user-friendly layout  
+- Contact/Enquiry form (frontend implementation)  
 
 ---
 
@@ -71,4 +71,4 @@ While primarily a frontend project, this application reflects the ability to bui
 GitHub: https://github.com/MinnaNourin  
 LinkedIn: https://linkedin.com/in/minnanourin  
 
-## 📁 Project Structure
+
